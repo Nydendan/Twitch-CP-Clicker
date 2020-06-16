@@ -17,8 +17,8 @@
         if (elementExists){
             document.querySelector(selector).click();
             console.log("The button has been clicked.");
-        }
 	}
+    }
 
     setInterval(clickIT,5000);
 
