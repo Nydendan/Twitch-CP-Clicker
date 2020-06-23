@@ -15,7 +15,7 @@
     function clickIT() {
         var button = document.querySelector("div.tw-full-height.tw-relative.tw-z-above > div > div > div > button")
         if (button){
-            document.querySelector(selector).click();
+            document.querySelector(button).click();
             console.log("The button has been clicked.");
         }
     }
