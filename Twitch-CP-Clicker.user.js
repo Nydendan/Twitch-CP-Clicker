@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Twitch CP Clicker
-// @version      0.1.2
+// @version      0.1.3
 // @description  Click +50 channel points button on twitch.tv automatically
 // @author       Nydendan
 // @source       https://github.com/Nydendan/Twitch-CP-Clicker
