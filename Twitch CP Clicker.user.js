@@ -1,10 +1,12 @@
 // ==UserScript==
 // @name         Twitch CP Clicker
-// @version      0.1.0
+// @version      0.1.1
 // @description  Click +50 channel points button on twitch.tv automatically
 // @author       Nydendan
+// @downloadURL  https://github.com/Nydendan/Twitch-CP-Clicker/blob/master/Twitch%20CP%20Clicker.user.js
 // @match        https://www.twitch.tv/*
 // @grant        none
+
 // ==/UserScript==
 
 (function() {
