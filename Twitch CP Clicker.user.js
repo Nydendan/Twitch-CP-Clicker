@@ -19,13 +19,13 @@
             console.log("The button has been clicked.");
         }
     }
-    
+
     try {
         setInterval(clickIT,5000);
     }
-    
+
     catch (error) {
     console.error(error);
     }
-    
+
 })();
